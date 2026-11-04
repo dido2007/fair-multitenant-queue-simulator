@@ -1,0 +1,5 @@
+Synthetic workload: 86 tasks, 3 workers; durations in abstract time units
+policy          small p95 wait  small p95 completion  bulk max wait  mean wait  makespan
+fifo                       142                   143            140      80.17       154
+round_robin                 25                    26            148      65.83       156
+service_time                10                    11            147      65.08       155
